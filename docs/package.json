@@ -1,7 +1,7 @@
 {
   "name": "Wendigo",
   "version": "0.0.0",
-  "description": "LaTex package manager",
+  "description": "Universal project translator from cloud-native projects to other infra technologies ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

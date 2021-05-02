@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <b>LaTex package manager</b></br>
+  <b>Universal project translator from cloud-native projects to other infra technologies </b></br>
   <sub><sub>
 </p>
 
